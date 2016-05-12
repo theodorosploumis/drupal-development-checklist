@@ -56,17 +56,6 @@ A checklist of common tools, settings, modules etc to check for a Drupal 8.x web
  - [ ] Enable apache2 error_log
  - [ ] Copy ssh keys
 
-## Local dev tasks
-
- - [ ] Create Project folder
- - [ ] Create drush aliases
- - [ ] git-flow init
- - [ ] drupal console chain commands
- - [ ] Set xdebug
- - [ ] IDE setup (eg Phpstorm)
- - [ ] Create [teamocil](www.teamocil.com) file
- - [ ] Create local bash aliases
- 
 ## Site Architecture
 
  - [ ] Content types
@@ -83,7 +72,18 @@ A checklist of common tools, settings, modules etc to check for a Drupal 8.x web
  - [ ] Test the UI (behat)
  - [ ] Test user permissions (PhpUnit)
  - [ ] Test user input (behat)
- 
+
+## Local dev tasks
+
+ - [ ] Create Project folder
+ - [ ] Create drush aliases
+ - [ ] git-flow init
+ - [ ] drupal console chain commands
+ - [ ] Set xdebug
+ - [ ] IDE setup (eg Phpstorm)
+ - [ ] Create [teamocil](www.teamocil.com) file
+ - [ ] Create local bash aliases
+
 ## After development tasks
 
  - [ ] Provide credentials
