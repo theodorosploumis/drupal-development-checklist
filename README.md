@@ -5,7 +5,8 @@ A checklist of common tools, settings, modules etc to check for a Drupal 8.x web
 I usually copy this checklist to a Github issue so I won't forget anything. 
 Most of the times I delete items from the list so this is the full list.
 
-> [github.com/theodorosploumis/drupal8-checklist/master/README.md](https://raw.githubusercontent.com/theodorosploumis/drupal8-checklist/master/README.md)
+ - [Get raw README.md](https://raw.githubusercontent.com/theodorosploumis/drupal8-checklist/master/README.md)
+ - [Edit README.md](https://github.com/theodorosploumis/drupal8-checklist/edit/master/README.md)
 
 
 ## Server setup
@@ -87,7 +88,7 @@ Most of the times I delete items from the list so this is the full list.
  - [ ] Menus and menu links
  - [ ] View modes
  - [ ] User Roles
- - [ ] User Scenarios
+ - [ ] User Scenarios/Stories
  - [ ] Site functionality (eg search, mailchimp etc)
 
 ## Testing
