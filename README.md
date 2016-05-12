@@ -1,7 +1,14 @@
 # Drupal 8.x Project Checklist
 A checklist of common tools, settings, modules etc to check for a Drupal 8.x web project
 
-## System setup
+**How to use this?**
+I usually copy this checklist to a Github issue so I won't forget anything. 
+Most of the times I delete items from the list so this is the full list.
+
+> [github.com/theodorosploumis/drupal8-checklist/master/README.md](https://raw.githubusercontent.com/theodorosploumis/drupal8-checklist/master/README.md)
+
+
+## Server setup
 
  - [ ] php7
  - [ ] mysql
@@ -13,17 +20,18 @@ A checklist of common tools, settings, modules etc to check for a Drupal 8.x web
  - [ ] ssh
  - [ ] node/npm
 
-## SaaS
+## Server Packages
 
- - [ ] Github/Bitbucket (create 3 repos)
- - [ ] Create Project Management project (eg on TeamWorkPM)
- - [ ] Create a Trello integration (if needed)
- - [ ] Setup CI (eg Travis)
-
-## Packages
  - [ ] [libsass](https://github.com/sass/node-sass)
  - [ ] [grunt](http://gruntjs.com/)
  - [ ] [drush config-extra](https://github.com/drush-ops/config-extra)
+
+## SaaS
+
+ - [ ] Create Github/Bitbucket repository
+ - [ ] Create Project Management project (eg [TeamWorkPM](https://teamworkpm.net/))
+ - [ ] Create a Trello integration (if needed)
+ - [ ] Setup CI (eg Travis)
 
 ## Modules
 
@@ -48,8 +56,22 @@ A checklist of common tools, settings, modules etc to check for a Drupal 8.x web
  - [ ] [mmu](https://www.drupal.org/project/mmu)
  - [ ] [reroute_email](https://www.drupal.org/project/reroute_email)
  - [ ] [stage_file_proxy](https://www.drupal.org/project/stage_file_proxy)
+
+## Themes (base)
+
+ - [ ] [zen](https://www.drupal.org/project/zen)
+ - [ ] [omega](https://www.drupal.org/project/omega)
+ - [ ] [bootstrap](https://www.drupal.org/project/bootstrap)
+ - [ ] [zurb_foundation](https://www.drupal.org/project/zurb_foundation)
+ - [ ] [neato](https://www.drupal.org/project/neato)
+ - [ ] [basic](https://www.drupal.org/project/basic)
+ - [ ] classy (core theme)
  
-## Settings
+---
+
+ - [ ] [adminimal_theme](https://www.drupal.org/project/adminimal_theme)
+
+## Drupal Settings
 
  - [ ] Enable dev mode
  - [ ] Enable php error_log
@@ -62,16 +84,23 @@ A checklist of common tools, settings, modules etc to check for a Drupal 8.x web
  - [ ] Vocabularies
  - [ ] Entity Fields
  - [ ] Blocks
- - [ ] Menu links
+ - [ ] Menus and menu links
  - [ ] View modes
  - [ ] User Roles
+ - [ ] User Scenarios
  - [ ] Site functionality (eg search, mailchimp etc)
 
 ## Testing
 
- - [ ] Test the UI (behat)
+ - [ ] Test UI functionality (behat)
  - [ ] Test user permissions (PhpUnit)
  - [ ] Test user input (behat)
+ - [ ] Test browsers
+ - [ ] Test devices (mobile, tablet, desktop)
+ - [ ] [W3C WAI level 1 accessibility validation](https://validator.w3.org/)
+ - [ ] [Google Mobile Friendly](https://www.google.com/webmasters/tools/mobile-friendly/) test
+ - [ ] [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/) test
+ - [ ] [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/)
 
 ## Local dev tasks
 
@@ -86,9 +115,12 @@ A checklist of common tools, settings, modules etc to check for a Drupal 8.x web
 
 ## After development tasks
 
- - [ ] Provide credentials
+ - [ ] Provide customer credentials
  - [ ] Maintenance aggreement
  - [ ] Submit to SE (eg Google)
- - [ ] Submit to Showcase sites ans my site
-
+ - [ ] Submit to [Google Analytics](https://analytics.google.com)
+ - [ ] Submit to [Google Webmaster tools](https://www.google.com/webmasters/tools)
+ - [ ] Submit to Showcase sites
+ - [ ] Publish on my personal site (work)
+ - [ ] Publish any Open source project that can be useful
  
