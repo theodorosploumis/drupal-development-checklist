@@ -57,6 +57,7 @@ Most of the times I delete items from the list so this is the full list.
  - [ ] [features](https://www.drupal.org/project/features)
  - [ ] [masquerade](https://www.drupal.org/project/masquerade)
  - [ ] [mmu](https://www.drupal.org/project/mmu)
+ - [ ] [restui](https://www.drupal.org/project/restui)
  - [ ] [reroute_email](https://www.drupal.org/project/reroute_email)
  - [ ] [stage_file_proxy](https://www.drupal.org/project/stage_file_proxy)
 
