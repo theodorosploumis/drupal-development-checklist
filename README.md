@@ -15,11 +15,12 @@ Most of the times I delete items from the list so this is the full list.
  - [ ] mysql
  - [ ] apache2/nginx
  - [ ] git
+ - [ ] patch
  - [ ] drush
  - [ ] drupal console
  - [ ] composer
- - [ ] ssh
- - [ ] node/npm
+ - [ ] openssh-server
+ - [ ] nodejs/npm
 
 ## Server Packages
 
