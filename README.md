@@ -32,6 +32,7 @@ Most of the times I delete items from the list so this is the full list.
  - [ ] Create Github/Bitbucket repository
  - [ ] Create Project Management project (eg [TeamWorkPM](https://teamworkpm.net/))
  - [ ] Create a Trello integration (if needed)
+ - [ ] Setup Slack
  - [ ] Setup CI (eg Travis)
 
 ## Modules
