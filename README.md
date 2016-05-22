@@ -91,8 +91,12 @@ Most of the times I delete items from the list so this is the full list.
  - [ ] Menus and menu links
  - [ ] View modes
  - [ ] User Roles
+ - [ ] Views
+ - [ ] Text editor filters
+ - [ ] REST pages
  - [ ] User Scenarios/Stories
  - [ ] Site functionality (eg search, mailchimp etc)
+ - [ ] New things to try (eg a new tool)
 
 ## Testing
 
