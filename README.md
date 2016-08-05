@@ -8,12 +8,16 @@ Most of the times I delete items from the list so this is the full list.
  - [Get raw README.md](https://raw.githubusercontent.com/theodorosploumis/drupal8-checklist/master/README.md)
  - [Edit README.md](https://github.com/theodorosploumis/drupal8-checklist/edit/master/README.md)
 
+## Server type
+
+ - [ ] Debian 64.x, stable (Xenial 16.04)
+
 
 ## Server setup
 
 Prefer to install all software globally.
 
- - [ ] php7
+ - [ ] php7 (see [required php extensions](https://www.drupal.org/docs/7/system-requirements/php) for drupal 8.x)
  - [ ] mysql
  - [ ] apache2/nginx
  - [ ] git
