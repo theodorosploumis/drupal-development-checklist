@@ -11,14 +11,16 @@ Most of the times I delete items from the list so this is the full list.
 
 ## Server setup
 
+Prefer to install all software globally.
+
  - [ ] php7
  - [ ] mysql
  - [ ] apache2/nginx
  - [ ] git
  - [ ] patch
- - [ ] drush
- - [ ] drupal console
- - [ ] composer
+ - [ ] [drush](http://docs.drush.org/en/master/install/#installupgrade-a-global-drush)
+ - [ ] [drupal console](https://hechoendrupal.gitbooks.io/drupal-console/content/en/getting/installer.html)
+ - [ ] [composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx)
  - [ ] openssh-server
  - [ ] nodejs/npm
 
