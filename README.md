@@ -75,6 +75,7 @@ Prefer to install all software globally.
  - [ ] [zurb_foundation](https://www.drupal.org/project/zurb_foundation)
  - [ ] [neato](https://www.drupal.org/project/neato)
  - [ ] [basic](https://www.drupal.org/project/basic)
+ - [ ] [xtheme](https://www.drupal.org/project/xtheme)
  - [ ] classy (core theme)
  
 ---
@@ -99,6 +100,7 @@ Prefer to install all software globally.
  - [ ] User Roles
  - [ ] Views
  - [ ] Text editor filters
+ - [ ] Image styles
  - [ ] REST pages
  - [ ] User Scenarios/Stories
  - [ ] Site functionality (eg search, mailchimp etc)
