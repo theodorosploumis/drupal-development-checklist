@@ -100,14 +100,15 @@ Prefer to install all software globally.
  - [ ] User Roles
  - [ ] Views
  - [ ] Text editor filters
+ - [ ] Text editor widgets/plugins
  - [ ] Image styles
  - [ ] REST pages
- - [ ] User Scenarios/Stories
  - [ ] Site functionality (eg search, mailchimp etc)
  - [ ] New things to try (eg a new tool)
 
 ## Testing
 
+ - [ ] User Scenarios/Stories
  - [ ] Test UI functionality (behat)
  - [ ] Test user permissions (PhpUnit)
  - [ ] Test user input (behat)
