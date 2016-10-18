@@ -119,22 +119,26 @@ Prefer to install all software globally.
  - [ ] [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/) test
  - [ ] [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/)
 
-## Local dev tasks
+## Development tasks
 
  - [ ] Create Project folder
  - [ ] Create drush aliases
  - [ ] git-flow init
  - [ ] drupal console chain commands
+ - [ ] Setup cron jobs
  - [ ] Set xdebug
  - [ ] IDE setup (eg Phpstorm)
  - [ ] Create [teamocil](www.teamocil.com) file
- - [ ] Create local bash aliases
+ - [ ] Create bash aliases
 
 ## After development tasks
 
+ - [ ] Disable modules: *_ui, dblog, devel, admin_menu, toolbar, simplytest, kint.
+ - [ ] Enable Caches
+ - [ ] Enable syslog module
  - [ ] Provide customer credentials
  - [ ] Maintenance aggreement
- - [ ] Submit to SE (eg Google)
+ - [ ] Submit to SE (eg Google), use xmlsitemap
  - [ ] Submit to [Google Analytics](https://analytics.google.com)
  - [ ] Submit to [Google Webmaster tools](https://www.google.com/webmasters/tools)
  - [ ] Submit to Showcase sites
