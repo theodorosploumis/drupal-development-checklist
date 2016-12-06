@@ -53,6 +53,7 @@ Prefer to install all software globally.
  - [ ] [token](https://www.drupal.org/project/token)
  - [ ] [google_analytics](https://www.drupal.org/project/google_analytics)
  - [ ] [xmlsitemap](https://www.drupal.org/project/xmlsitemap)
+ - [ ] [components](https://www.drupal.org/project/components)
 
 ---
 
@@ -76,6 +77,8 @@ Prefer to install all software globally.
  - [ ] [neato](https://www.drupal.org/project/neato)
  - [ ] [basic](https://www.drupal.org/project/basic)
  - [ ] [xtheme](https://www.drupal.org/project/xtheme)
+ - [ ] [gesso](https://www.drupal.org/project/gesso)
+ - [ ] [uikitty](https://www.drupal.org/project/uikitty)
  - [ ] classy (core theme)
  
 ---
