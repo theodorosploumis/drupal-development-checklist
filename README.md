@@ -79,6 +79,7 @@ Prefer to install all software globally.
  - [ ] [xtheme](https://www.drupal.org/project/xtheme)
  - [ ] [gesso](https://www.drupal.org/project/gesso)
  - [ ] [uikitty](https://www.drupal.org/project/uikitty)
+ - [ ] [radix](https://www.drupal.org/project/radix)
  - [ ] classy (core theme)
  
 ---
