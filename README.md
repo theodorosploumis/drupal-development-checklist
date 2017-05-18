@@ -80,6 +80,7 @@ Prefer to install all software globally.
  - [ ] [gesso](https://www.drupal.org/project/gesso)
  - [ ] [uikitty](https://www.drupal.org/project/uikitty)
  - [ ] [radix](https://www.drupal.org/project/radix)
+ - [ ] [cog](https://www.drupal.org/project/cog)
  - [ ] classy (core theme)
  
 ---
