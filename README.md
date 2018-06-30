@@ -26,9 +26,9 @@ Prefer to install all software globally.
  - [ ] [drupal console](https://hechoendrupal.gitbooks.io/drupal-console/content/en/getting/installer.html)
  - [ ] [composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx)
  - [ ] openssh-server
- - [ ] nodejs/npm
+ - [ ] nodejs/npm (if needed)
 
-## Server Packages
+## Dev Packages (if needed)
 
  - [ ] [libsass](https://github.com/sass/node-sass)
  - [ ] [grunt](http://gruntjs.com/)
@@ -38,7 +38,7 @@ Prefer to install all software globally.
 
  - [ ] Create Github/Bitbucket repository
  - [ ] Create Project Management project (eg [TeamWorkPM](https://teamworkpm.net/))
- - [ ] Create a Trello integration (if needed)
+ - [ ] Create a Trello board (if using Trello)
  - [ ] Setup Slack
  - [ ] Setup CI (eg Travis)
 
@@ -123,6 +123,7 @@ Prefer to install all software globally.
  - [ ] [Google Mobile Friendly](https://www.google.com/webmasters/tools/mobile-friendly/) test
  - [ ] [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/) test
  - [ ] [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/)
+ - [ ] [Yellow Lab Tools](https://yellowlab.tools)
 
 ## Development tasks
 
@@ -130,7 +131,7 @@ Prefer to install all software globally.
  - [ ] Create drush aliases
  - [ ] git-flow init
  - [ ] drupal console chain commands
- - [ ] Setup cron jobs
+ - [ ] Setup **cron jobs**
  - [ ] Set xdebug
  - [ ] IDE setup (eg Phpstorm)
  - [ ] Create [teamocil](www.teamocil.com) file
@@ -138,7 +139,7 @@ Prefer to install all software globally.
 
 ## After development tasks
 
- - [ ] Disable modules: *_ui, dblog, devel, admin_menu, toolbar, simplytest, kint.
+ - [ ] Disable modules: *_ui, dblog, devel, admin_menu, simplytest, kint.
  - [ ] Enable Caches
  - [ ] Enable syslog module
  - [ ] Provide customer credentials
