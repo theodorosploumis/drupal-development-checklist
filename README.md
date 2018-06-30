@@ -46,41 +46,36 @@ Prefer to install all software globally.
 
  - [ ] [admin_toolbar](https://www.drupal.org/project/admin_toolbar)
  - [ ] [ctools](https://www.drupal.org/project/ctools)
- - [ ] [honeypot](https://www.drupal.org/project/honeypot)
  - [ ] [pathauto](https://www.drupal.org/project/pathauto)
  - [ ] [pathologic](https://www.drupal.org/project/pathologic)
  - [ ] [redirect](https://www.drupal.org/project/redirect)
  - [ ] [token](https://www.drupal.org/project/token)
  - [ ] [google_analytics](https://www.drupal.org/project/google_analytics)
- - [ ] [xmlsitemap](https://www.drupal.org/project/xmlsitemap)
- - [ ] [components](https://www.drupal.org/project/components)
+ - [ ] [simple_sitemap](https://www.drupal.org/project/simple_sitemap)
 
 ---
 
- - [ ] [backup_db](https://www.drupal.org/project/backup_db)
+ - [ ] [backup_migrate](https://www.drupal.org/project/backup_migrate)
  - [ ] [config_update](https://www.drupal.org/project/config_update)
+ - [ ] [config_devel](https://drupal.org/project/config_devel)
  - [ ] [devel](https://www.drupal.org/project/devel)
- - [ ] [disable_modules](https://www.drupal.org/project/disable_modules)
  - [ ] [features](https://www.drupal.org/project/features)
  - [ ] [masquerade](https://www.drupal.org/project/masquerade)
- - [ ] [mmu](https://www.drupal.org/project/mmu)
- - [ ] [restui](https://www.drupal.org/project/restui)
- - [ ] [reroute_email](https://www.drupal.org/project/reroute_email)
  - [ ] [stage_file_proxy](https://www.drupal.org/project/stage_file_proxy)
 
 ## Themes (base)
 
- - [ ] [zen](https://www.drupal.org/project/zen)
  - [ ] [omega](https://www.drupal.org/project/omega)
  - [ ] [bootstrap](https://www.drupal.org/project/bootstrap)
  - [ ] [zurb_foundation](https://www.drupal.org/project/zurb_foundation)
+ - [ ] [kashmir](https://drupal.org/project/kashmir)
  - [ ] [neato](https://www.drupal.org/project/neato)
  - [ ] [basic](https://www.drupal.org/project/basic)
  - [ ] [xtheme](https://www.drupal.org/project/xtheme)
  - [ ] [gesso](https://www.drupal.org/project/gesso)
- - [ ] [uikitty](https://www.drupal.org/project/uikitty)
  - [ ] [radix](https://www.drupal.org/project/radix)
  - [ ] [cog](https://www.drupal.org/project/cog)
+ - [ ] [bear_skin](https://www.drupal.org/project/bear_skin)
  - [ ] classy (core theme)
  
 ---
