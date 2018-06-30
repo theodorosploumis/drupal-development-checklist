@@ -17,7 +17,7 @@ Most of the times I delete items from the list so this is the full list.
 
 Prefer to install all software globally.
 
- - [ ] php7 (see [required php extensions](https://www.drupal.org/docs/7/system-requirements/php) for drupal 8.x)
+ - [ ] php7 (see [required php extensions](https://drupal.org/docs/8/system-requirements/php-requirements) for drupal 8.x)
  - [ ] mysql
  - [ ] apache2/nginx
  - [ ] git
