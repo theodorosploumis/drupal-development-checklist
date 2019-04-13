@@ -37,7 +37,7 @@ Prefer to install all software globally.
 ## SaaS
 
  - [ ] Create Github/Bitbucket repository
- - [ ] Create Project Management project (eg [TeamWorkPM](https://teamworkpm.net/))
+ - [ ] Create Project Management project (eg [TeamWork](https://teamwork.com))
  - [ ] Create a Trello board (if using Trello)
  - [ ] Setup Slack
  - [ ] Setup CI (eg Travis)
