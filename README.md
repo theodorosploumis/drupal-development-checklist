@@ -1,4 +1,4 @@
-# Drupal 8.x Project Checklist
+# Drupal 8.x Project Development Checklist
 A checklist of common tools, settings, modules etc to check for a Drupal 8.x web project
 
 **How to use this?**
