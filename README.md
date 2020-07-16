@@ -112,7 +112,7 @@ Prefer to install all software globally.
  - [ ] Test UI functionality (behat)
  - [ ] Test user permissions (PhpUnit)
  - [ ] Test user input (behat)
- - [ ] Test browsers
+ - [ ] Test browsers (browserstack etc)
  - [ ] Test devices (mobile, tablet, desktop)
  - [ ] [W3C WAI level 1 accessibility validation](https://validator.w3.org/)
  - [ ] [Google Mobile Friendly](https://www.google.com/webmasters/tools/mobile-friendly/) test
