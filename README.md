@@ -1,6 +1,8 @@
 # Drupal 8.x Project Development Checklist
 A checklist of common tools, settings, modules etc to check for a Drupal 8.x web project
 
+> Want to use a **Docker** image for development? Head to https://github.com/theodorosploumis/gitpod-drupal-workspace!
+
 **How to use this?**
 I usually copy this checklist to a Github issue so I won't forget anything. 
 Most of the times I delete items from the list so this is the full list.
@@ -30,9 +32,7 @@ Prefer to install all software globally.
 
 ## Dev Packages (if needed)
 
- - [ ] [libsass](https://github.com/sass/node-sass)
- - [ ] [grunt](http://gruntjs.com/)
- - [ ] [drush config-extra](https://github.com/drush-ops/config-extra)
+ - [ ] [sass-lang.com](https://sass-lang.com/)
 
 ## SaaS
 
