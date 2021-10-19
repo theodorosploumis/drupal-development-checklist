@@ -1,5 +1,5 @@
-# Drupal 8.x Project Development Checklist
-A checklist of common tools, settings, modules etc to check for a Drupal 8.x web project
+# Drupal 9.x Project Development Checklist
+A checklist of common tools, settings, modules etc to check for a Drupal 9.x web project
 
 > Want to use a **Docker** image for development? Head to https://github.com/theodorosploumis/gitpod-drupal-workspace!
 
@@ -7,26 +7,22 @@ A checklist of common tools, settings, modules etc to check for a Drupal 8.x web
 I usually copy this checklist to a Github issue so I won't forget anything. 
 Most of the times I delete items from the list so this is the full list.
 
- - [Get raw README.md](https://raw.githubusercontent.com/theodorosploumis/drupal8-checklist/master/README.md)
- - [Edit README.md](https://github.com/theodorosploumis/drupal8-checklist/edit/master/README.md)
-
 ## Server type
 
- - [ ] Debian 64.x, stable (Xenial 16.04)
+ - [ ] Ubuntu LTS, stable (eg 20.04)
 
 
 ## Server setup
 
 Prefer to install all software globally.
 
- - [ ] php7 (see [required php extensions](https://drupal.org/docs/8/system-requirements/php-requirements) for drupal 8.x)
+ - [ ] php8 (see [required php extensions](https://drupal.org/docs/8/system-requirements/php-requirements) for drupal 9.x)
  - [ ] mysql
- - [ ] apache2/nginx
+ - [ ] apache2
  - [ ] git
  - [ ] patch
- - [ ] [drush](http://docs.drush.org/en/master/install/#installupgrade-a-global-drush)
- - [ ] [drupal console](https://hechoendrupal.gitbooks.io/drupal-console/content/en/getting/installer.html)
- - [ ] [composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx)
+ - [ ] [drush-launcher](https://github.com/drush-ops/drush-launcher)
+ - [ ] [composer](https://getcomposer.org)
  - [ ] openssh-server
  - [ ] nodejs/npm (if needed)
 
@@ -36,7 +32,7 @@ Prefer to install all software globally.
 
 ## SaaS
 
- - [ ] Create Github/Bitbucket repository
+ - [ ] Create Github/Bitbucket/Gitlab repository
  - [ ] Create Project Management project (eg [TeamWork](https://teamwork.com))
  - [ ] Create a Trello board (if using Trello)
  - [ ] Setup Slack
@@ -146,3 +142,7 @@ Prefer to install all software globally.
  - [ ] Publish on my personal site (work)
  - [ ] Publish any Open source project that can be useful
  
+ ---
+ 
+ - [Get raw README.md](https://raw.githubusercontent.com/theodorosploumis/drupal8-checklist/master/README.md)
+ - [Edit README.md](https://github.com/theodorosploumis/drupal8-checklist/edit/master/README.md)
